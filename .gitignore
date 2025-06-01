@@ -1,0 +1,18 @@
+
+# Ignore everything
+*
+FF-ULTIMA
+
+# But not these files...
+!.gitignore
+!huenicorn
+!i3
+!kitty
+!picom
+!polybar
+!qalculate
+!rofi
+# etc...
+
+# ...even if they are in subdirectories
+!*/
