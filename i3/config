@@ -94,6 +94,7 @@ bindsym $mod+space exec rofi -show drun -kb-cancel "Super-space"
 bindsym $mod+Tab exec rofi rofi -show window -kb-cancel "Super-Tab"
 bindsym $mod+c exec rofi -show calc -modi calc -no-show-match -no-sort -kb-cancel "Super-c"
 bindsym $mod+Escape exec rofi -show power-menu -modi "power-menu:rofi-power-menu --choices=shutdown/reboot/suspend/hibernate" -kb-cancel "Super-Escape"
+bindsym $mod+g exec .config/rofi/rofi_ollama.sh
 
 # There also is i3-dmenu-desktop which only displays applications shipping a
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
