@@ -1,0 +1,9 @@
+#bindsym Print exec gnome-screenshot --area -cPrint                                   
+# start dmenu (a program launcher) #    $mod+d                                  
+# A more modern dmenu replacement is rofi:$mod+space                              
+# sysmonitor                            $mod+c                                  
+# .desktop file. It is a wrapper around dmenu, so you need that installed. #$mod+40                                 
+# split in vertical orientation         $mod+v                                  
+# change container layout (stacked, tabbed, toggle split) #$mod+s                                  
+# toggle tiling / floating              $mod+Shift+space                        
+# focus the child container #           $mod+d                                  

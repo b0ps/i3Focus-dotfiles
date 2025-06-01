@@ -1,0 +1,203 @@
+{
+  "channels": [
+    {
+      "active": true,
+      "channelId": 0,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.20000000298023224,
+      "uvs": {
+        "uvA": {
+          "x": 0.0,
+          "y": 0.5555555820465088
+        },
+        "uvB": {
+          "x": 0.13953489065170288,
+          "y": 0.9444444179534912
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 1,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.20000000298023224,
+      "uvs": {
+        "uvA": {
+          "x": 0.0,
+          "y": 0.1666666716337204
+        },
+        "uvB": {
+          "x": 0.13953489065170288,
+          "y": 0.5555555820465088
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 2,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.20000000298023224,
+      "uvs": {
+        "uvA": {
+          "x": 0.023255813866853714,
+          "y": 0.0555555559694767
+        },
+        "uvB": {
+          "x": 0.20930232107639313,
+          "y": 0.3888888955116272
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 3,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.0,
+      "uvs": {
+        "uvA": {
+          "x": 0.20930232107639313,
+          "y": 0.0555555559694767
+        },
+        "uvB": {
+          "x": 0.39534884691238403,
+          "y": 0.3888888955116272
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 4,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.0,
+      "uvs": {
+        "uvA": {
+          "x": 0.39534884691238403,
+          "y": 0.0555555559694767
+        },
+        "uvB": {
+          "x": 0.604651153087616,
+          "y": 0.3888888955116272
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 5,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.0,
+      "uvs": {
+        "uvA": {
+          "x": 0.604651153087616,
+          "y": 0.0555555559694767
+        },
+        "uvB": {
+          "x": 0.7906976938247681,
+          "y": 0.3888888955116272
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 6,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.20000000298023224,
+      "uvs": {
+        "uvA": {
+          "x": 0.7906976938247681,
+          "y": 0.0555555559694767
+        },
+        "uvB": {
+          "x": 0.9767441749572754,
+          "y": 0.3888888955116272
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 7,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.20000000298023224,
+      "uvs": {
+        "uvA": {
+          "x": 0.8604651093482971,
+          "y": 0.1666666716337204
+        },
+        "uvB": {
+          "x": 1.0,
+          "y": 0.5555555820465088
+        }
+      }
+    },
+    {
+      "active": true,
+      "channelId": 8,
+      "devices": [
+        {
+          "id": "cdceb1f1-fd41-41be-9e8b-31ee37763c31",
+          "name": "Pc Ambilight",
+          "type": "hue_lightstrip"
+        }
+      ],
+      "gammaFactor": 0.20000000298023224,
+      "uvs": {
+        "uvA": {
+          "x": 0.8604651093482971,
+          "y": 0.5555555820465088
+        },
+        "uvB": {
+          "x": 1.0,
+          "y": 0.9444444179534912
+        }
+      }
+    }
+  ],
+  "entertainmentConfigurationId": "11cc25d5-6091-4f7a-80b5-4b701e7b8cc9"
+}

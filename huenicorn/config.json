@@ -1,0 +1,13 @@
+{
+  "boundBackendIP": "0.0.0.0",
+  "bridgeAddress": "192.168.0.173",
+  "credentials": {
+    "clientkey": "9EFD47BE13F0D2B0563E0BAC10BD4ADC",
+    "username": "A05Dpvqie3vv6Ax1GhZ6JdAoXopC13lzGdAbRmi3"
+  },
+  "interpolation": 2,
+  "profileName": "profile",
+  "refreshRate": 50,
+  "restServerPort": 8215,
+  "subsampleWidth": 43
+}
