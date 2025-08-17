@@ -228,6 +228,7 @@ exec feh --bg-fill ~/Bilder/wallpapers/catppuccin-frappe2.jpg
 exec_always xinput set-prop "Corsair Corsair Gaming HARPOON RGB Mouse" "libinput Accel Speed" -0.8
 
 # set kraken screen settings - managed using systemd along with fan curves
+# /etc/systemd/system/liquidcfg.service
 # exec liquidctl --match kraken set lcd screen orientation 90
 # exec liquidctl --match kraken set lcd screen static ~/Bilder/catppuccin_logo.png
 
